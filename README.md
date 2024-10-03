@@ -1,6 +1,8 @@
 # domin
 Dominance analysis (DA) Use domin With STATA 18
 
+https://www.youtube.com/watch?v=FJBZS0cXUBg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
